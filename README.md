@@ -32,7 +32,13 @@ This solution helped me:
 - Automation workflows  
 - Using AI as a collaborator  
 - Building real-world projects  
+## 📂 What This Repository Will Include
 
+- Learning notes  
+- Practice tasks  
+- Mini projects  
+- Real-world automation ideas  
+- AI Agent portfolio projects  
 ## 📂 What This Repository Will Include
 
 - Learning notes  
@@ -43,4 +49,6 @@ This solution helped me:
 
 ## 🚀 Long-Term Vision
 
-I aim to become highly skilled in building AI-powered systems and AI Agents that can automate tasks, support decisions, and create real impact in professional environments.
+## 🚀 Long-Term Vision
+
+My goal is to become highly skilled in building AI-powered systems and AI Agents that can automate tasks, support decisions, and create real impact in professional environments.
