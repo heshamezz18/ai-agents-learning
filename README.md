@@ -1,6 +1,6 @@
-# ai-agents-learning
-Learning AI Agents and building real-world automation projects
 # AI Agents Learning Journey 🚀
+
+Learning AI Agents and building real-world automation projects.
 
 Hi, I'm currently learning how to build AI Agents and use AI effectively in real-world scenarios.
 
@@ -14,8 +14,14 @@ My goal is to deeply understand AI Agents and use them to create useful tools th
 
 I have already applied AI-driven thinking in my work environment (lab).
 
-I built VBA scripts in Microsoft Word to automate result-writing tasks.  
-Instead of doing everything manually, I created a system where I can generate results and autofill repeated sections with a single button click.
+I developed VBA automation scripts in Microsoft Word to streamline laboratory report-writing workflows.
+## 📌 Featured Projects
+
+### 🔬 IGHV Report Automation System
+A VBA automation system that connects Excel and Microsoft Word to automate laboratory report generation and PDF export workflows.
+
+### 🤖 AI Agents Workflow Automation
+A project focused on AI Agents, prompt chaining, workflow automation, and practical AI systems.
 
 ## 📈 Impact
 
@@ -39,16 +45,27 @@ This solution helped me:
 - Mini projects  
 - Real-world automation ideas  
 - AI Agent portfolio projects  
-## 📂 What This Repository Will Include
+## 🛠️ Skills
 
-- Learning notes  
-- Practice tasks  
-- Mini projects  
-- Real-world automation ideas  
-- AI Agent portfolio projects  
-
-## 🚀 Long-Term Vision
+- VBA Automation
+- Excel & Word Automation
+- AI Prompt Engineering
+- AI Workflow Automation
+- Git & GitHub
+- Workflow Optimization
+- LIMS Systems 
 
 ## 🚀 Long-Term Vision
 
 My goal is to become highly skilled in building AI-powered systems and AI Agents that can automate tasks, support decisions, and create real impact in professional environments.
+
+## 🚀 Current Focus
+
+- Building AI automation systems
+- Learning AI Agents architecture
+- Expanding workflow automation projects
+- Developing practical AI portfolio projects
+
+## 📫 Contact
+- GitHub: github.com/heshamezz18
+- LinkedIn: linkedin.com/in/hesham-ezz-040a2a33a
