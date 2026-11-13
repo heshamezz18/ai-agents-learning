@@ -1,0 +1,16 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "summary": "Basic plan agreed",
+    "decisions": [
+      "Use basic plan"
+    ],
+    "actions": [
+      {
+        "task": "Send proposal",
+        "owner": "Maya",
+        "due_date": "2026-11-16"
+      }
+    ]
+  }
+}

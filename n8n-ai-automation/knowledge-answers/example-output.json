@@ -1,0 +1,10 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "answer": "14 days for unopened items.",
+    "source_ids": [
+      "returns-policy"
+    ],
+    "insufficient_evidence": false
+  }
+}

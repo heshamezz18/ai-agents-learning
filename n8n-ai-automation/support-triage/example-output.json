@@ -1,0 +1,9 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "category": "technical",
+    "priority": "high",
+    "summary": "Team-wide login failure",
+    "reply_draft": "Please share the time this started."
+  }
+}

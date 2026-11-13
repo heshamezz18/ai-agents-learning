@@ -1,0 +1,11 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "vendor": "Demo Supplies",
+    "invoice_number": "INV-001",
+    "date": "2026-11-10",
+    "currency": "EGP",
+    "total": 1250,
+    "review_reason": ""
+  }
+}
