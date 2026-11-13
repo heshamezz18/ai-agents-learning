@@ -1,0 +1,10 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "category": "receipt",
+    "priority": "low",
+    "summary": "Subscription payment receipt",
+    "suggested_label": "Finance",
+    "action_required": false
+  }
+}

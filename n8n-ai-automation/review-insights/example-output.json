@@ -1,0 +1,14 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "sentiment": "mixed",
+    "topics": [
+      "lid leakage",
+      "delivery"
+    ],
+    "evidence": [
+      "the lid leaks"
+    ],
+    "suggested_action": "Investigate lid sealing quality"
+  }
+}

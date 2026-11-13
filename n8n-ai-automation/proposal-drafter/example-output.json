@@ -1,0 +1,18 @@
+{
+  "status": "needs_human_review",
+  "result": {
+    "summary": "Five-page English website",
+    "deliverables": [
+      "Five pages",
+      "Contact form"
+    ],
+    "assumptions": [
+      "Client supplies copy and logo"
+    ],
+    "open_questions": [
+      "What budget is approved?",
+      "What is the deadline?"
+    ],
+    "proposal_draft": "We propose a five-page English website with a contact form. Pricing and timeline require agreement."
+  }
+}

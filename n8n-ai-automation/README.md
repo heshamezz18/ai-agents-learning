@@ -1,6 +1,6 @@
 # n8n AI Automation Portfolio — Hesham Ezz
 
-Six original, configurable AI workflow projects with authenticated webhook intake, manual samples, API retries and output checks. **Starter implementations; not production-certified or live-tested.**
+Eleven original, configurable AI workflow projects with authenticated webhook intake, manual samples, API retries and output checks. **Starter implementations; not production-certified or live-tested.**
 
 - [AI Lead Qualification](lead-qualification/README.md) — Validated lead scoring and a review-ready follow-up draft.
 - [Invoice Text Extraction](invoice-extraction/README.md) — Structured fields with missing-data review flags.
@@ -23,3 +23,13 @@ Selected for recurring business needs, not a statistically verified popularity r
 Examples establish use cases, not proof that these implementations have run in production. No third-party template JSON copied. Credentials must be created in n8n and are not included.
 
 Run local fixture checks with `node tests.cjs`. These do not replace importing into your installed n8n version and running live acceptance tests.
+
+## Additional business automation projects
+
+- [Business Email Classifier](email-classifier/README.md) — Structured category, priority and suggested label for review.
+- [Customer Review Insights](review-insights/README.md) — Sentiment, themes and evidence excerpts for a product review queue.
+- [Client Proposal Drafter](proposal-drafter/README.md) — A structured draft with scope, deliverables and unresolved questions.
+- [Procurement Spend Classifier](spend-classifier/README.md) — A classification constrained to a configured taxonomy with evidence for review.
+- [Ecommerce Product Copy](product-copy/README.md) — Fact-grounded listing drafts with benefits and missing-information flags.
+
+Additional negative tests: `node tests-batch-2.cjs`.
